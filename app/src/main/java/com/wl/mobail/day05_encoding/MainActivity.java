@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     protected void onCreate(Bundle savedInstanceState) {
 
 
-
+//王大力   大力大力大大力
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         drawer = ((DrawerLayout) findViewById(R.id.drawer));
